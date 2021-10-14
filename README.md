@@ -8,5 +8,5 @@ https://www.goodreads.com/book/show/18276352-but-how-do-it-know---the-basic-prin
 Simulation software 
 
 <h2>**LOGISIM EVOLUTION**<h2>
-[Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
+[LogisimEvolution](https://github.com/logisim-evolution/logisim-evolution)
 
